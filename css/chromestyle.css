@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+
+.chromestyle ul li a {
+    border-right: 1px solid #E3DAD1;
+    color: #443322;
+    margin: 0;
+    text-decoration: none;
+	/*padding-left: 5px;
+    padding-right: 20px;*/
+	padding:7px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.chromestyle ul {
+    text-align: left;
+}
+.chromestyle {
+    font-weight: normal;
+	background-image:url("../images/menu-bg.jpg");
+	border-bottom:thick;
+	background-repeat: repeat-x;
+	font-family:tahoma; font-size:12px;
+	margin:0px;
+}
+.chromestyle ul {
+    background-image:url("../images/menu-bg.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    margin: 0;
+    padding: 7px;
+    text-align: left;
+}
+ol, ul {
+    margin-left: 20px;
+    padding-left: 10px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.dropmenudiv a {
+    background: url("./images/menu-bg.jpg") repeat-x scroll 0 0 #EFECE6;
+    border-bottom: 1px solid #E3DAD1;
+    color: #000000;
+    display: block;
+/*    font-size: 14px;
+    font-weight: normal;
+*/    padding: 3px 5px;
+    text-align: left;
+    text-decoration: none;
+    width: auto;
+	font-family:Tahoma;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#rankSubMenu1 {
+    display: none; 
+     position: absolute; 
+     /*bottom: 10px;
+     left: 278px;*/
+	left: 20px;
+    top: 118px;
+	list-style-type: none;
+	text-decoration:none;
+	font-family:Tahoma;
+	font-size:12px;
+}
+#rankSubMenu2 {
+     display: none; 
+     position: absolute; 
+     left: 72px;
+     top: 118px;
+	 list-style-type: none;
+	 text-decoration:none;
+	 font-family:Tahoma;
+	 font-size:12px;
+}
+#rankSubMenu3 {
+     display: none; 
+     position: absolute; 
+     left: 131px;
+     top: 118px;
+	 list-style-type: none;
+	 text-decoration:none;
+	 font-family:Tahoma;
+	 font-size:12px;
+}
+
+#rankSubMenu4 {
+     display: none; 
+     position: absolute; 
+	 left: 199px;
+     top: 118px;
+	 list-style-type: none;
+	 text-decoration:none;
+	 font-family:Tahoma;
+	 font-size:12px;
+}
+#rankSubMenu3_1 {
+	 list-style-type: none;
+	 text-decoration:none;
+	 background-color:#EFECE6;
+	 font-family:Tahoma;
+	 font-size:12px;
+}
+#menuid {
+	list-style-type: none;
+}
+#rankSubMenu5 {
+     display: none; 
+     position: absolute; 
+	 left: 340px;
+     top: 118px;
+	 list-style-type: none;
+	 text-decoration:none;
+	 font-family:Tahoma;
+	 font-size:12px;
+}
+table.mt {
+	border-width: 1px;
+	border-spacing:2px;
+	border-style: solid;
+	border-color: #4282B2;
+	border-collapse: collapse;
+	background-color: transparent;
+/*	height:250px;*/
+}
+table.mt td {
+	border-width: 1px;
+	padding: 1px;
+	word-spacing:5px;
+	
+	border-style: solid;
+	border-color: #4282B2;
+	/*text-align: center;*/
+	vertical-align:middle;
+}
+.frc {
+	background: #efefef;
+}
+.headsec {
+	background-color:#D9D8D8;
+	height:48px;
+}
+td{
+    color: #2B6998;
+    font-family: tahoma;
+    font-size: 12px;
+    line-height: 22px;	
+}
+.boxfields{
+	width:200px; 
+	height:18px;
+}
+.boxfields1{
+	width:200px; 
+	height:18px;
+	margin-bottom:2px;
+}
+a {
+	text-decoration:none;
+	font-size:11px;
+}
+/*@import url(http://fonts.googleapis.com/earlyaccess/notosanstamil.css);*/
+.tamil_select{
+	/*font-family:"VANAVIL-Avvaiyar";
+	src: url(../AVVAIYAR.TTF);*/
+	font-family:'Noto Sans Tamil',serif;
+	width:200px; 
+	height:18px;
+	margin-bottom:2px;
+}
+
+	  #footer {
+	background: none repeat scroll 0 0 #AECDE4;
+	color: #FFFFFF;
+	font-size: 14px;
+	font:Arial, Helvetica, sans-serif;	
+	bottom:0;
+	width:100%;
+	height:80px; 
+	text-align:center;
+}

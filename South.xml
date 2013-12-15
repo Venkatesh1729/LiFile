@@ -1,0 +1,362 @@
+<Trips>
+  <Above70>
+    <Serial_number>1</Serial_number>
+    <Vehicle_Number>TDL 7963</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Open Tipper</Vehicle_Type>
+    <Total_In_Weight>29445</Total_In_Weight>
+    <Total_Out_Weight>21790</Total_Out_Weight>
+    <MSW_Weight>7655</MSW_Weight>
+    <Efficiency>85%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>2</Serial_number>
+    <Vehicle_Number>TN 09 0430</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Open Tipper</Vehicle_Type>
+    <Total_In_Weight>32120</Total_In_Weight>
+    <Total_Out_Weight>21205</Total_Out_Weight>
+    <MSW_Weight>10915</MSW_Weight>
+    <Efficiency>121%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>3</Serial_number>
+    <Vehicle_Number>TN 28 6507</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Tractor</Vehicle_Type>
+    <Total_In_Weight>3950</Total_In_Weight>
+    <Total_Out_Weight>2985</Total_Out_Weight>
+    <MSW_Weight>965</MSW_Weight>
+    <Efficiency>75%</Efficiency>
+  </Above70>
+  <Between_50_to_70>
+    <Serial_number>4</Serial_number>
+    <Vehicle_Number>TN 28 E 2199</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Open Tipper</Vehicle_Type>
+    <Total_In_Weight>10030</Total_In_Weight>
+    <Total_Out_Weight>7975</Total_Out_Weight>
+    <MSW_Weight>2055</MSW_Weight>
+    <Efficiency>68%</Efficiency>
+  </Between_50_to_70>
+  <Above70>
+    <Serial_number>5</Serial_number>
+    <Vehicle_Number>TN 37 A 0737</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Mini Tipper</Vehicle_Type>
+    <Total_In_Weight>10765</Total_In_Weight>
+    <Total_Out_Weight>6220</Total_Out_Weight>
+    <MSW_Weight>4545</MSW_Weight>
+    <Efficiency>89%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>6</Serial_number>
+    <Vehicle_Number>TN 37 AM 3309</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Tractor</Vehicle_Type>
+    <Total_In_Weight>8950</Total_In_Weight>
+    <Total_Out_Weight>6815</Total_Out_Weight>
+    <MSW_Weight>2135</MSW_Weight>
+    <Efficiency>83%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>7</Serial_number>
+    <Vehicle_Number>TN 37 AS 5328</Vehicle_Number>
+    <No_Of_Trips>8</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>55540</Total_In_Weight>
+    <Total_Out_Weight>45310</Total_Out_Weight>
+    <MSW_Weight>10230</MSW_Weight>
+    <Efficiency>91%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>8</Serial_number>
+    <Vehicle_Number>TN 37 AV 1765</Vehicle_Number>
+    <No_Of_Trips>5</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>33500</Total_In_Weight>
+    <Total_Out_Weight>27060</Total_Out_Weight>
+    <MSW_Weight>6440</MSW_Weight>
+    <Efficiency>92%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>9</Serial_number>
+    <Vehicle_Number>TN 37 AW 1679</Vehicle_Number>
+    <No_Of_Trips>5</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>32895</Total_In_Weight>
+    <Total_Out_Weight>27180</Total_Out_Weight>
+    <MSW_Weight>5715</MSW_Weight>
+    <Efficiency>81%</Efficiency>
+  </Above70>
+  <Below50>
+    <Serial_number>10</Serial_number>
+    <Vehicle_Number>TN 37 AX 3899</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Point Five</Vehicle_Type>
+    <Total_In_Weight>5505</Total_In_Weight>
+    <Total_Out_Weight>4960</Total_Out_Weight>
+    <MSW_Weight>545</MSW_Weight>
+    <Efficiency>27%</Efficiency>
+  </Below50>
+  <Above70>
+    <Serial_number>11</Serial_number>
+    <Vehicle_Number>TN 37 AX 3899</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Point Five</Vehicle_Type>
+    <Total_In_Weight>21300</Total_In_Weight>
+    <Total_Out_Weight>15055</Total_Out_Weight>
+    <MSW_Weight>6245</MSW_Weight>
+    <Efficiency>104%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>12</Serial_number>
+    <Vehicle_Number>TN 37 AZ 5064</Vehicle_Number>
+    <No_Of_Trips>4</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>29240</Total_In_Weight>
+    <Total_Out_Weight>23200</Total_Out_Weight>
+    <MSW_Weight>6040</MSW_Weight>
+    <Efficiency>107%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>13</Serial_number>
+    <Vehicle_Number>TN 37 AZ 5068</Vehicle_Number>
+    <No_Of_Trips>5</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>37390</Total_In_Weight>
+    <Total_Out_Weight>29505</Total_Out_Weight>
+    <MSW_Weight>7885</MSW_Weight>
+    <Efficiency>112%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>14</Serial_number>
+    <Vehicle_Number>TN 37 AZ 5475</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>7520</Total_In_Weight>
+    <Total_Out_Weight>5970</Total_Out_Weight>
+    <MSW_Weight>1550</MSW_Weight>
+    <Efficiency>110%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>15</Serial_number>
+    <Vehicle_Number>TN 37 AZ 5475</Vehicle_Number>
+    <No_Of_Trips>4</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>29260</Total_In_Weight>
+    <Total_Out_Weight>23750</Total_Out_Weight>
+    <MSW_Weight>5510</MSW_Weight>
+    <Efficiency>98%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>16</Serial_number>
+    <Vehicle_Number>TN 37 BT 4468</Vehicle_Number>
+    <No_Of_Trips>4</No_Of_Trips>
+    <Vehicle_Type>Double Bin Two Ton</Vehicle_Type>
+    <Total_In_Weight>21915</Total_In_Weight>
+    <Total_Out_Weight>16870</Total_Out_Weight>
+    <MSW_Weight>5045</MSW_Weight>
+    <Efficiency>90%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>17</Serial_number>
+    <Vehicle_Number>TN 37 D 3763</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Point Five</Vehicle_Type>
+    <Total_In_Weight>14190</Total_In_Weight>
+    <Total_Out_Weight>9670</Total_Out_Weight>
+    <MSW_Weight>4520</MSW_Weight>
+    <Efficiency>113%</Efficiency>
+  </Above70>
+  <Below50>
+    <Serial_number>18</Serial_number>
+    <Vehicle_Number>TN 37 D 4981</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Mini Tipper</Vehicle_Type>
+    <Total_In_Weight>4145</Total_In_Weight>
+    <Total_Out_Weight>3275</Total_Out_Weight>
+    <MSW_Weight>870</MSW_Weight>
+    <Efficiency>34%</Efficiency>
+  </Below50>
+  <Between_50_to_70>
+    <Serial_number>19</Serial_number>
+    <Vehicle_Number>TN 37 D 4981</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Mini Tipper</Vehicle_Type>
+    <Total_In_Weight>9145</Total_In_Weight>
+    <Total_Out_Weight>6365</Total_Out_Weight>
+    <MSW_Weight>2780</MSW_Weight>
+    <Efficiency>54%</Efficiency>
+  </Between_50_to_70>
+  <Above70>
+    <Serial_number>20</Serial_number>
+    <Vehicle_Number>TN 37 J 2332</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Tractor</Vehicle_Type>
+    <Total_In_Weight>8455</Total_In_Weight>
+    <Total_Out_Weight>6465</Total_Out_Weight>
+    <MSW_Weight>1990</MSW_Weight>
+    <Efficiency>78%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>21</Serial_number>
+    <Vehicle_Number>TN 37 P 7984</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Tractor</Vehicle_Type>
+    <Total_In_Weight>21630</Total_In_Weight>
+    <Total_Out_Weight>9295</Total_Out_Weight>
+    <MSW_Weight>12335</MSW_Weight>
+    <Efficiency>322%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>22</Serial_number>
+    <Vehicle_Number>TN 37 Q 6379</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Mini Tipper</Vehicle_Type>
+    <Total_In_Weight>6235</Total_In_Weight>
+    <Total_Out_Weight>4295</Total_Out_Weight>
+    <MSW_Weight>1940</MSW_Weight>
+    <Efficiency>76%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>23</Serial_number>
+    <Vehicle_Number>TN 37 S 3022</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Two Ton</Vehicle_Type>
+    <Total_In_Weight>5535</Total_In_Weight>
+    <Total_Out_Weight>3910</Total_Out_Weight>
+    <MSW_Weight>1625</MSW_Weight>
+    <Efficiency>135%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>24</Serial_number>
+    <Vehicle_Number>TN 37 S 3022</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Two Ton</Vehicle_Type>
+    <Total_In_Weight>11135</Total_In_Weight>
+    <Total_Out_Weight>7715</Total_Out_Weight>
+    <MSW_Weight>3420</MSW_Weight>
+    <Efficiency>142%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>25</Serial_number>
+    <Vehicle_Number>TN 37 T 2296</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Mini Tipper</Vehicle_Type>
+    <Total_In_Weight>11705</Total_In_Weight>
+    <Total_Out_Weight>7780</Total_Out_Weight>
+    <MSW_Weight>3925</MSW_Weight>
+    <Efficiency>76%</Efficiency>
+  </Above70>
+  <Between_50_to_70>
+    <Serial_number>26</Serial_number>
+    <Vehicle_Number>TN 37 X 0490</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Mini Tipper</Vehicle_Type>
+    <Total_In_Weight>10965</Total_In_Weight>
+    <Total_Out_Weight>7715</Total_Out_Weight>
+    <MSW_Weight>3250</MSW_Weight>
+    <Efficiency>63%</Efficiency>
+  </Between_50_to_70>
+  <Above70>
+    <Serial_number>27</Serial_number>
+    <Vehicle_Number>TN 38 F 4956</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Tractor</Vehicle_Type>
+    <Total_In_Weight>12085</Total_In_Weight>
+    <Total_Out_Weight>8515</Total_Out_Weight>
+    <MSW_Weight>3570</MSW_Weight>
+    <Efficiency>93%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>28</Serial_number>
+    <Vehicle_Number>TN 39 A 5919</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Open Tipper</Vehicle_Type>
+    <Total_In_Weight>31225</Total_In_Weight>
+    <Total_Out_Weight>22495</Total_Out_Weight>
+    <MSW_Weight>8730</MSW_Weight>
+    <Efficiency>97%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>29</Serial_number>
+    <Vehicle_Number>TN 66 C 0526</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Point Three</Vehicle_Type>
+    <Total_In_Weight>9600</Total_In_Weight>
+    <Total_Out_Weight>7765</Total_Out_Weight>
+    <MSW_Weight>1835</MSW_Weight>
+    <Efficiency>73%</Efficiency>
+  </Above70>
+  <Above70>
+    <Serial_number>30</Serial_number>
+    <Vehicle_Number>TN 66 C 0526</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Point Three</Vehicle_Type>
+    <Total_In_Weight>20710</Total_In_Weight>
+    <Total_Out_Weight>15625</Total_Out_Weight>
+    <MSW_Weight>5085</MSW_Weight>
+    <Efficiency>101%</Efficiency>
+  </Above70>
+  <Between_50_to_70>
+    <Serial_number>31</Serial_number>
+    <Vehicle_Number>TN 66 J 6196</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Tata Ace</Vehicle_Type>
+    <Total_In_Weight>4985</Total_In_Weight>
+    <Total_Out_Weight>3645</Total_Out_Weight>
+    <MSW_Weight>1340</MSW_Weight>
+    <Efficiency>59%</Efficiency>
+  </Between_50_to_70>
+  <Above70>
+    <Serial_number>32</Serial_number>
+    <Vehicle_Number>TN 66 J 6199</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Tata Ace</Vehicle_Type>
+    <Total_In_Weight>5545</Total_In_Weight>
+    <Total_Out_Weight>3735</Total_Out_Weight>
+    <MSW_Weight>1810</MSW_Weight>
+    <Efficiency>80%</Efficiency>
+  </Above70>
+  <Between_50_to_70>
+    <Serial_number>33</Serial_number>
+    <Vehicle_Number>TN 66 J 6201</Vehicle_Number>
+    <No_Of_Trips>1</No_Of_Trips>
+    <Vehicle_Type>Tata Ace</Vehicle_Type>
+    <Total_In_Weight>1670</Total_In_Weight>
+    <Total_Out_Weight>1275</Total_Out_Weight>
+    <MSW_Weight>395</MSW_Weight>
+    <Efficiency>52%</Efficiency>
+  </Between_50_to_70>
+  <Above70>
+    <Serial_number>34</Serial_number>
+    <Vehicle_Number>TN 66 J 6201</Vehicle_Number>
+    <No_Of_Trips>2</No_Of_Trips>
+    <Vehicle_Type>Tata Ace</Vehicle_Type>
+    <Total_In_Weight>3990</Total_In_Weight>
+    <Total_Out_Weight>2660</Total_Out_Weight>
+    <MSW_Weight>1330</MSW_Weight>
+    <Efficiency>88%</Efficiency>
+  </Above70>
+  <Between_50_to_70>
+    <Serial_number>35</Serial_number>
+    <Vehicle_Number>TN 66 J 6202</Vehicle_Number>
+    <No_Of_Trips>4</No_Of_Trips>
+    <Vehicle_Type>Tata Ace</Vehicle_Type>
+    <Total_In_Weight>6780</Total_In_Weight>
+    <Total_Out_Weight>5130</Total_Out_Weight>
+    <MSW_Weight>1650</MSW_Weight>
+    <Efficiency>55%</Efficiency>
+  </Between_50_to_70>
+  <Above70>
+    <Serial_number>36</Serial_number>
+    <Vehicle_Number>TN 66 J 6211</Vehicle_Number>
+    <No_Of_Trips>3</No_Of_Trips>
+    <Vehicle_Type>Tata Ace</Vehicle_Type>
+    <Total_In_Weight>5490</Total_In_Weight>
+    <Total_Out_Weight>3700</Total_Out_Weight>
+    <MSW_Weight>1790</MSW_Weight>
+    <Efficiency>79%</Efficiency>
+  </Above70>
+</Trips>
